@@ -10,5 +10,5 @@ Sunucusuz, hesapsız, saf SwiftUI ile geliştirilmiş ultra hızlı kişisel har
 
 ## Destek ve İletişim (Support)
 Uygulama ile ilgili soru, öneri veya geri bildirimleriniz için bize e-posta yoluyla ulaşabilirsiniz:
-- **E-posta:** kurus.support@icloud.com *(buraya açtığınız e-postayı yazın)*
+- **E-posta:kuruscent@icloud.com
 - **Gizlilik Politikası:** [privacy.md](https://github.com/sinantepebasili/kurus-legal/blob/main/privacy.html)
